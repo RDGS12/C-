@@ -1,2 +1,2 @@
 # PROJETOS ENG
-Projeto consta uma calculadora e um campo  minado, um para ajudar nas opreações basic e o jogo para se divertit
+No projeto consta ma calculadora e um jogo campo minado, para vacilitar nas opreações e para se divertit jogando
